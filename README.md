@@ -3,7 +3,7 @@
 <h2>👨‍💻 Academic Projects:</h2>
 
 - <b>Final Year Project - Little Foodies</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - (https://github.com/faraharman/littlefoodie)
 - <b>Image processing Project - Malaysia Banana Detection</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Artificial Intelligence Project = Lappybot</b>
