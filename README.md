@@ -6,11 +6,8 @@
   - [Little Foodie](https://github.com/faraharman/littlefoodie)
 - <b>Image processing Project - Malaysia Banana Detection</b>
   - [Im](https://github.com/faraharman/lappybot))
-- <b>Artificial Intelligence Project - Laptop Assisstant Chatbot</b>
+- <b>Artificial Intelligence Project - Laptop Assisstant and Recommendation Chatbot</b>
   - [Lappybot](https://github.com/faraharman/lappybot)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Data Analytics Project</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
