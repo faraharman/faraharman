@@ -5,9 +5,9 @@
 - <b>Final Year Project - Educational Mobile Application</b>
   - [Little Foodie](https://github.com/faraharman/littlefoodie)
 - <b>Image processing Project - Malaysia Banana Detection</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Artificial Intelligence Project = Lappybot</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Im](https://github.com/faraharman/lappybot))
+- <b>Artificial Intelligence Project - Laptop Assisstant Chatbot</b>
+  - [Lappybot](https://github.com/faraharman/lappybot)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
