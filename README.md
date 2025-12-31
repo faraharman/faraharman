@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Academic Projects:</h2>
 
-- <b>Final Year Project - Little Foodies</b>
-  - (https://github.com/faraharman/littlefoodie)
+- <b>Final Year Project - Educational Mobile Application</b>
+  - [Little Foodie](https://github.com/faraharman/littlefoodie)
 - <b>Image processing Project - Malaysia Banana Detection</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Artificial Intelligence Project = Lappybot</b>
