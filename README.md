@@ -5,7 +5,7 @@
 - <b>Final Year Project - Educational Mobile Application</b>
   - [Little Foodie](https://github.com/faraharman/littlefoodie)
 - <b>Image processing Project - Malaysia Banana Detection</b>
-  - [Im](https://github.com/faraharman/lappybot))
+  - [BananaByte](https://github.com/faraharman/MalaysianBanana)
 - <b>Artificial Intelligence Project - Laptop Assisstant and Recommendation Chatbot</b>
   - [Lappybot](https://github.com/faraharman/lappybot)
 - <b>Data Analytics Project</b>
