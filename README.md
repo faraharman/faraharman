@@ -8,11 +8,7 @@
   - [BananaByte](https://github.com/faraharman/MalaysianBanana)
 - <b>Artificial Intelligence Project - Laptop Assisstant and Recommendation Chatbot</b>
   - [Lappybot](https://github.com/faraharman/lappybot)
-- <b>Data Analytics Project</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Web system Project</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Data Analytics Project - Sentiment Analysis</b>
+  - [TiktokSentiment](https://github.com/faraharman/hijabistahubsentiment)
 
 
